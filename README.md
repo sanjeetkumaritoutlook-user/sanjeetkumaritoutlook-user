@@ -24,4 +24,3 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 
-[![Spotify](https://novatorem-livid.vercel.app/api/spotify)](https://open.spotify.com/user/sanjeetkumaritoutlook-user)
