@@ -10,12 +10,12 @@
 
 ### 📊 GitHub Profile Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjeetkumaritoutlook&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeetkumaritoutlook&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetkumaritoutlook&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanjeetkumaritoutlook&theme=dark)
-![Followers](https://img.shields.io/github/followers/sanjeetkumaritoutlook?style=social)  
-![Stars](https://img.shields.io/github/stars/sanjeetkumaritoutlook?style=social)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjeetkumaritoutlook&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeetkumaritoutlook-user&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeetkumaritoutlook-user&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanjeetkumaritoutlook-user&theme=dark)
+![Followers](https://img.shields.io/github/followers/sanjeetkumaritoutlook-user?style=social)  
+![Stars](https://img.shields.io/github/stars/sanjeetkumaritoutlook-user?style=social)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjeetkumaritoutlook-user&theme=onedark)
 
 
 ### ⚙️ Tech Stack  
