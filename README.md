@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Sanjeet Kumar  
-💻 Passionate Frontend & Full Stack Developer | 🚀 Building Web Components & AI Chatbots  
+💻 Passionate Frontend Developer | 🚀 Building Web Components & AI Chatbots  
 
 - 🔭 I’m currently working on **Web Components and AI Chatbot projects**  
 - 🌱 I’m currently learning **Angular to NestJS connect and MEAN stack**
