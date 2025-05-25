@@ -18,6 +18,8 @@
 ![Stars](https://img.shields.io/github/stars/sanjeetkumaritoutlook-user?style=social)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjeetkumaritoutlook-user&theme=onedark)
 
+### Connect with me
+<a href="https://www.linkedin.com/in/sanjeet-kumar-19819735b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar" height="30" width="40" /></a>
 
 ### ⚙️ Tech Stack  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
