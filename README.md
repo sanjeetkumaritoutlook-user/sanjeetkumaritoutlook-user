@@ -1,4 +1,4 @@
-### Hi <a href="https://sanjeetkumaritoutlook.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Sanjeet Kumar  
+### Hi <a href="https://sanjeetkumaritoutlook.github.io/" target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Sanjeet Kumar  
 💻 Passionate Frontend Developer | 🚀 Building Web Components & AI Chatbots  
 
 - 🔭 I’m currently working on **Web Components and AI Chatbot projects**  
