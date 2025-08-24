@@ -25,6 +25,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![StencilJS](https://img.shields.io/badge/StencilJS-FFCA28?style=for-the-badge&logo=webcomponentsdotorg&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🏆 Certifications  
