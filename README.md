@@ -29,4 +29,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🏆 Certifications  
-✅ **AWS Certified Cloud Practitioner** - AWS
+✅ <a href="https://www.credly.com/badges/2d345ae3-a84d-48db-b7e6-473945fa3522" target="blank">**AWS Certified Cloud Practitioner** - AWS</a>
