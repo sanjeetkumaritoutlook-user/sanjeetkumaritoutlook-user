@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Web Components and AI Chatbot projects**  
 - 🌱 I’m currently learning **Angular to NestJS connect and MEAN stack**
 - 👉 All my work is now here → [@sanjeetkumaritoutlook](https://github.com/sanjeetkumaritoutlook)
-- 💬 Ask me about **Angular, StencilJS, React, NextJS, and AI Chatbots**  
+- 💬 Ask me about **Angular, StencilJS, Python, React, NextJS, and AI Chatbots**  
 - 📫 How to reach me: **sanjeetkumarit@gmail.com**
 - 🌎 My Portfolio: [sanjeetkumarit.netlify.app](https://sanjeetkumarit.netlify.app/)  
 - ⚡ Fun fact: **I build Web Components for fun!**  
